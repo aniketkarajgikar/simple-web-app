@@ -1,0 +1,12 @@
+{
+  "name": "simple-web-app",
+  "version": "1.0.0",
+  "description": "Simple Azure Web App for displaying a welcome message",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
